@@ -1,7 +1,7 @@
 {
   "dealership": "Metrotown Mazda",
-  "generated_at": "2026-10-26T05:22:21",
-  "vehicle_count": 225,
+  "generated_at": "2026-10-26T05:36:09",
+  "vehicle_count": 223,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -422,14 +422,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-30 GT",
-      "vin": "3MVDMBDL7TM143856",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/bf86ceb0dd56.html",
-      "condition": "new",
-      "price": 40832.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-5 GX",
       "vin": "JM3KMAHA9T0137613",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/5cc53bc58bc3.html",
@@ -491,14 +483,6 @@
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/0c8ad39915c3.html",
       "condition": "new",
       "price": 49232.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GX",
-      "vin": "JM3KMAHA0T0154932",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/b34789baa956.html",
-      "condition": "new",
-      "price": 38582.0,
       "price_currency": "CAD"
     },
     {
@@ -587,6 +571,14 @@
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/cebb75909329.html",
       "condition": "new",
       "price": 56832.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GS",
+      "vin": "JM3KMBHA0T0161143",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/0417718e2817.html",
+      "condition": "new",
+      "price": 41332.0,
       "price_currency": "CAD"
     },
     {
@@ -691,14 +683,6 @@
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/6b3fe9e50697.html",
       "condition": "new",
       "price": 62982.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GT",
-      "vin": "JM3KMCHA9T0165231",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/7dfe42c4c238.html",
-      "condition": "new",
-      "price": 44332.0,
       "price_currency": "CAD"
     },
     {
