@@ -1,7 +1,7 @@
 {
   "dealership": "Metrotown Mazda",
-  "generated_at": "2026-10-25T20:38:44",
-  "vehicle_count": 228,
+  "generated_at": "2026-10-26T05:22:21",
+  "vehicle_count": 225,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1398,17 +1398,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Mazda Mazda3",
-      "vin": "3MZBPBDM9PM358974",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/1bb9062d632b.html",
-      "year": 2023,
-      "make": "Mazda",
-      "model": "Mazda3",
-      "condition": "used",
-      "price": 27998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Honda CR-V Hybrid",
       "vin": "2HKRS6H94RH222998",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/51c748448996.html",
@@ -1417,17 +1406,6 @@
       "model": "CR-V Hybrid",
       "condition": "used",
       "price": 39798.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda CX-90 MHEV",
-      "vin": "JM3KKDHC7R1109711",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/c0b6249d436b.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-90 MHEV",
-      "condition": "used",
-      "price": 39998.0,
       "price_currency": "CAD"
     },
     {
@@ -1461,17 +1439,6 @@
       "model": "CX-50",
       "condition": "used",
       "price": 38500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda CX-5",
-      "vin": "JM3KFBCL9R0444510",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/a00c9175fb0f.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 31898.0,
       "price_currency": "CAD"
     },
     {
