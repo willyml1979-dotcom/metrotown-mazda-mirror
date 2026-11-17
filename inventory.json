@@ -1,7 +1,7 @@
 {
   "dealership": "Metrotown Mazda",
-  "generated_at": "2026-10-26T05:36:09",
-  "vehicle_count": 223,
+  "generated_at": "2026-11-17T01:07:38",
+  "vehicle_count": 230,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1294,14 +1294,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Fiat 500",
-      "vin": "ZFBCFADH1EZ026095",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/16c29997b9b7.html",
-      "year": 2014,
-      "make": "Fiat",
-      "model": "500",
+      "name": "2018 Mazda Mazda3",
+      "vin": "JM1BN1U75J1171197",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/1d5b2a01c997.html",
+      "year": 2018,
+      "make": "Mazda",
+      "model": "Mazda3",
       "condition": "used",
-      "price": 10603.0,
+      "price": 14603.0,
       "price_currency": "CAD"
     },
     {
@@ -1313,17 +1313,6 @@
       "model": "CR-V",
       "condition": "used",
       "price": 26603.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Lexus RX",
-      "vin": "2T2BGMCA0KC037022",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/fa98e892bed6.html",
-      "year": 2019,
-      "make": "Lexus",
-      "model": "RX",
-      "condition": "used",
-      "price": 41498.0,
       "price_currency": "CAD"
     },
     {
@@ -1356,7 +1345,18 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 27398.0,
+      "price": 26898.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Mazda Mazda3 Sport",
+      "vin": "JM1BPBLL9N1511374",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/610d26e20e3c.html",
+      "year": 2022,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "condition": "used",
+      "price": 24398.0,
       "price_currency": "CAD"
     },
     {
@@ -1379,6 +1379,28 @@
       "model": "CX-30",
       "condition": "used",
       "price": 26998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Mazda Mazda3",
+      "vin": "3MZBPBDM9PM358974",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/1bb9062d632b.html",
+      "year": 2023,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "condition": "used",
+      "price": 27603.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Mazda CX-5",
+      "vin": "JM3KFBDM1P0210558",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/6072dfb287d4.html",
+      "year": 2023,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "used",
+      "price": 32603.0,
       "price_currency": "CAD"
     },
     {
@@ -1411,7 +1433,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 32998.0,
+      "price": 30998.0,
       "price_currency": "CAD"
     },
     {
@@ -1423,6 +1445,39 @@
       "model": "CX-50",
       "condition": "used",
       "price": 38500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Mazda CX-5",
+      "vin": "JM3KFBEY0R0396789",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/3bfbca04ec57.html",
+      "year": 2024,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "used",
+      "price": 37603.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Mazda CX-5",
+      "vin": "JM3KFBDY8R0399568",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/76e289238c64.html",
+      "year": 2024,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "used",
+      "price": 35603.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Mazda CX-5",
+      "vin": "JM3KFBCL6R0422111",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/2be9bfca3b1f.html",
+      "year": 2024,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "used",
+      "price": 31603.0,
       "price_currency": "CAD"
     },
     {
@@ -1444,7 +1499,7 @@
       "make": "Mazda",
       "model": "Mazda3",
       "condition": "used",
-      "price": 29998.0,
+      "price": 29398.0,
       "price_currency": "CAD"
     },
     {
@@ -1455,7 +1510,7 @@
       "make": "Mazda",
       "model": "CX-50",
       "condition": "used",
-      "price": 45795.0,
+      "price": 43999.0,
       "price_currency": "CAD"
     },
     {
@@ -1466,7 +1521,29 @@
       "make": "Mazda",
       "model": "CX-50",
       "condition": "used",
-      "price": 39603.0,
+      "price": 37598.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Mazda CX-30",
+      "vin": "3MVDMBCM7SM762238",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/9db2c5c12577.html",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-30",
+      "condition": "used",
+      "price": 31398.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Mazda CX-5",
+      "vin": "JM3KFBCL5S0687513",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/17012315bb8e.html",
+      "year": 2025,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "used",
+      "price": 35003.0,
       "price_currency": "CAD"
     },
     {
