@@ -1,18 +1,10 @@
 {
   "dealership": "Metrotown Mazda",
-  "generated_at": "2026-11-17T01:07:38",
-  "vehicle_count": 230,
+  "generated_at": "2026-11-17T01:55:30",
+  "vehicle_count": 236,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "Mazda2024 CX-90 Hybrid Signature",
-      "vin": "JM3KKEHC0R1154320",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/936863fc9fb9.html",
-      "condition": "new",
-      "price": 58832.0,
-      "price_currency": "CAD"
-    },
     {
       "name": "Mazda2025 CX-70 Plug-In Hybrid GS-L",
       "vin": "JM3KJCHA7S1105966",
@@ -91,22 +83,6 @@
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/d8f37a5481bd.html",
       "condition": "new",
       "price": 43982.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2025 CX-5 GS",
-      "vin": "JM3KFBCL2S0794986",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/627615b6ad96.html",
-      "condition": "new",
-      "price": 42282.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-90 Mild Hybrid GT",
-      "vin": "JM3KKDHD6T1371090",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/d8ae192bb0c9.html",
-      "condition": "new",
-      "price": 57332.0,
       "price_currency": "CAD"
     },
     {
@@ -203,14 +179,6 @@
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/4acde1685492.html",
       "condition": "new",
       "price": 49582.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GS",
-      "vin": "JM3KMBHA6T0110598",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/2f6473cf1735.html",
-      "condition": "new",
-      "price": 41732.0,
       "price_currency": "CAD"
     },
     {
@@ -342,14 +310,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-5 GX",
-      "vin": "JM3KMAHA3T0128146",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/ae5bde4fc177.html",
-      "condition": "new",
-      "price": 38582.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-90 Plug-In Hybrid GT",
       "vin": "JM3KKDHA1T1389521",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/5fd7ffd6b59f.html",
@@ -422,11 +382,19 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-5 GX",
-      "vin": "JM3KMAHA9T0137613",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/5cc53bc58bc3.html",
+      "name": "Mazda2026 CX-30 GT",
+      "vin": "3MVDMBDL7TM143856",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/bf86ceb0dd56.html",
       "condition": "new",
-      "price": 38182.0,
+      "price": 40832.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GS",
+      "vin": "JM3KMBHA3T0137581",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/82a1dc0b4959.html",
+      "condition": "new",
+      "price": 41332.0,
       "price_currency": "CAD"
     },
     {
@@ -462,14 +430,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-5 GT",
-      "vin": "JM3KMDHA5T0146780",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/dbebd62048cd.html",
-      "condition": "new",
-      "price": 49132.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-90 Plug-In Hybrid Signature",
       "vin": "JM3KKEHA9T1394309",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/d3f0f1b93b0b.html",
@@ -483,6 +443,14 @@
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/0c8ad39915c3.html",
       "condition": "new",
       "price": 49232.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GX",
+      "vin": "JM3KMAHA0T0154932",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/b34789baa956.html",
+      "condition": "new",
+      "price": 38582.0,
       "price_currency": "CAD"
     },
     {
@@ -515,38 +483,6 @@
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/6580e9d0da1c.html",
       "condition": "new",
       "price": 38682.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GS",
-      "vin": "JM3KMBHA1T0157392",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/9118ced72651.html",
-      "condition": "new",
-      "price": 41832.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-30 GT",
-      "vin": "3MVDMBDL1TM206112",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/570c1bd5c56f.html",
-      "condition": "new",
-      "price": 41332.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GS",
-      "vin": "JM3KMBHA6T0157498",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/33837d2ec639.html",
-      "condition": "new",
-      "price": 41832.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GS",
-      "vin": "JM3KMBHA1T0158381",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/5bc07bd80ad4.html",
-      "condition": "new",
-      "price": 41632.0,
       "price_currency": "CAD"
     },
     {
@@ -587,14 +523,6 @@
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/12d3c82823e3.html",
       "condition": "new",
       "price": 41732.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GS",
-      "vin": "JM3KMBHAXT0161828",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/a4238cb65610.html",
-      "condition": "new",
-      "price": 41332.0,
       "price_currency": "CAD"
     },
     {
@@ -683,6 +611,22 @@
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/6b3fe9e50697.html",
       "condition": "new",
       "price": 62982.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GT",
+      "vin": "JM3KMCHA9T0165231",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/7dfe42c4c238.html",
+      "condition": "new",
+      "price": 44332.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-30 GT",
+      "vin": "3MVDMBDL4TM213314",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/91ad0a151d57.html",
+      "condition": "new",
+      "price": 41382.0,
       "price_currency": "CAD"
     },
     {
@@ -798,14 +742,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-70 Plug-In Hybrid GT",
-      "vin": "JM3KJDHA3T1212505",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/6045bb5e4df9.html",
-      "condition": "new",
-      "price": 61982.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-70 Mild Hybrid GT-P",
       "vin": "JM3KJDHC8T1212520",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/6cfa2ac8560e.html",
@@ -854,14 +790,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-90 Plug-In Hybrid GT",
-      "vin": "JM3KKDHA2T1409274",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/7b78a9c4b0fb.html",
-      "condition": "new",
-      "price": 62982.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-5 GS",
       "vin": "JM3KMBHA9T0194397",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/de7a63065417.html",
@@ -895,26 +823,10 @@
     },
     {
       "name": "Mazda2026 CX-5 GT",
-      "vin": "JM3KMDHA8T0181670",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/2b252498133e.html",
-      "condition": "new",
-      "price": 49582.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GT",
       "vin": "JM3KMDHA1T0183860",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/119122680c55.html",
       "condition": "new",
       "price": 48832.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GT",
-      "vin": "JM3KMDHA5T0193050",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/dea3618d59e7.html",
-      "condition": "new",
-      "price": 49232.0,
       "price_currency": "CAD"
     },
     {
@@ -942,14 +854,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-5 GT",
-      "vin": "JM3KMDHAXT0193125",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/472d318191ea.html",
-      "condition": "new",
-      "price": 49232.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-5 GX",
       "vin": "JM3KMAHA6T0193623",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/f927e3b0be06.html",
@@ -971,14 +875,6 @@
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/5c11408d3832.html",
       "condition": "new",
       "price": 43532.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GS",
-      "vin": "JM3KMBHA2T0198968",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/782c0b56ef51.html",
-      "condition": "new",
-      "price": 41632.0,
       "price_currency": "CAD"
     },
     {
@@ -1190,30 +1086,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-30 GS",
-      "vin": "3MVDMBCL8TM237343",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/bd18e7cdb192.html",
-      "condition": "new",
-      "price": 34832.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GS",
-      "vin": "JM3KMBHA2T0236599",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/313582b0b369.html",
-      "condition": "new",
-      "price": 41632.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GS",
-      "vin": "JM3KMBHA9T0236065",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/94ffc422ce1d.html",
-      "condition": "new",
-      "price": 41332.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-5 GS",
       "vin": "JM3KMBHA6T0236637",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/e3a92ae568a3.html",
@@ -1230,22 +1102,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-30 GS",
-      "vin": "3MVDMBCLXTM240342",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/81c617e448fa.html",
-      "condition": "new",
-      "price": 34832.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-70 Plug-In Hybrid GS-SC",
-      "vin": "JM3KJBHF6T1353102",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/06477cfea128.html",
-      "condition": "new",
-      "price": 50631.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-30 GS Kuro",
       "vin": "3MVDMBCL9TM239991",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/bbbd37ac6f75.html",
@@ -1254,27 +1110,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-90 Mild Hybrid GT-P",
-      "vin": "JM3KKDHC5T1423526",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/7dad53f0308b.html",
-      "condition": "new",
-      "price": 61182.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-90 Mild Hybrid GS-L",
       "vin": "JM3KKCHD5T1423139",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/1a7844b465c1.html",
       "condition": "new",
       "price": 52232.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GT",
-      "vin": "JM3KMDHA4T0233747",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/dcdf540da10a.html",
-      "condition": "new",
-      "price": 48832.0,
       "price_currency": "CAD"
     },
     {
@@ -1291,6 +1131,222 @@
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/ad85c9d281c1.html",
       "condition": "new",
       "price": 41132.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GS",
+      "vin": "JM3KMBHA2T0235453",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/37fa67b456f9.html",
+      "condition": "new",
+      "price": 41732.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-30 GX",
+      "vin": "3MVDMBBL1TM242031",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/a009d8d049cf.html",
+      "condition": "new",
+      "price": 31932.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GS",
+      "vin": "JM3KMBHAXT0241307",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/85a93eaec6f1.html",
+      "condition": "new",
+      "price": 41632.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GS",
+      "vin": "JM3KMBHA8T0240575",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/e9f9a861d8e8.html",
+      "condition": "new",
+      "price": 41332.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-30 GT Kuro",
+      "vin": "3MVDMBAY7TM244444",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/146c048df082.html",
+      "condition": "new",
+      "price": 44282.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-30 GS Kuro",
+      "vin": "3MVDMBCL8TM243501",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/c0ec4ead0a05.html",
+      "condition": "new",
+      "price": 37032.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-30 GX",
+      "vin": "3MVDMBBL0TM243493",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/b1f6c569d711.html",
+      "condition": "new",
+      "price": 31932.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-90 Mild Hybrid GS-L",
+      "vin": "JM3KKCHD4T1423956",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/0e8f6de44d48.html",
+      "condition": "new",
+      "price": 52732.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-90 Mild Hybrid GT-P",
+      "vin": "JM3KKDHC3T1423718",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/7153dd1709fe.html",
+      "condition": "new",
+      "price": 61182.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GS",
+      "vin": "JM3KMBHA2T0241365",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/8a4de27c0d0c.html",
+      "condition": "new",
+      "price": 41632.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GS",
+      "vin": "JM3KMBHAXT0240156",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/244183ff7707.html",
+      "condition": "new",
+      "price": 41332.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GT",
+      "vin": "JM3KMCHA2T0241663",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/2366cc70de7d.html",
+      "condition": "new",
+      "price": 44582.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GS",
+      "vin": "JM3KMBHA8T0240902",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/006d4a6fd3a5.html",
+      "condition": "new",
+      "price": 41632.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GT",
+      "vin": "JM3KMCHA5T0240927",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/e7d5b174f3e3.html",
+      "condition": "new",
+      "price": 44632.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GT",
+      "vin": "JM3KMDHA3V0243205",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/fbc7592470cf.html",
+      "condition": "new",
+      "price": 50032.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GT",
+      "vin": "JM3KMCHA0T0240320",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/e89004afc935.html",
+      "condition": "new",
+      "price": 44632.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GT",
+      "vin": "JM3KMDHA6V0244915",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/0febdde0a408.html",
+      "condition": "new",
+      "price": 50532.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GT",
+      "vin": "JM3KMDHA7V0243885",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/56e5dc27d657.html",
+      "condition": "new",
+      "price": 50582.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GT",
+      "vin": "JM3KMDHA3V0244970",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/3dcd8790d150.html",
+      "condition": "new",
+      "price": 50332.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-90 Mild Hybrid GT-P",
+      "vin": "JM3KKDHC5T1424174",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/64293cf30e5e.html",
+      "condition": "new",
+      "price": 60782.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GX",
+      "vin": "JM3KMAHA8V0246874",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/e3f155f5d731.html",
+      "condition": "new",
+      "price": 39432.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GS",
+      "vin": "JM3KMBHA1V0244485",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/afefaeba9cb3.html",
+      "condition": "new",
+      "price": 42932.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-90 Plug-In Hybrid GT",
+      "vin": "JM3KKDHA6T1424344",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/6147ba64cda3.html",
+      "condition": "new",
+      "price": 62982.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GS",
+      "vin": "JM3KMBHA8V0244841",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/65eec5a535f0.html",
+      "condition": "new",
+      "price": 42932.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-30 GT Kuro",
+      "vin": "3MVDMBAY2TM244299",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/87a0223f7a83.html",
+      "condition": "new",
+      "price": 43982.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-90 Mild Hybrid GT",
+      "vin": "JM3KKDHD6T1422880",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/e894db68eae1.html",
+      "condition": "new",
+      "price": 56832.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2027 CX-5 GS",
+      "vin": "JM3KMBHA9V0246615",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/faf9d9bd9385.html",
+      "condition": "new",
+      "price": 42532.0,
       "price_currency": "CAD"
     },
     {
@@ -1569,17 +1625,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda3 Sport GS",
-      "vin": "JM1BPALL7T1876658",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/5d6288c9bed5.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Sport GS",
-      "condition": "new",
-      "price": 33732.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mazda3 Sport GT",
       "vin": "JM1BPBML2T1876524",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/26e14f5225ef.html",
@@ -1823,17 +1868,6 @@
     },
     {
       "name": "2026 Mazda3 GS",
-      "vin": "3MZBPACL7TM515267",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/990f3cfdfa69.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "GS",
-      "condition": "new",
-      "price": 30382.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 GS",
       "vin": "3MZBPACL2TM515239",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/6ab2ac4ca9a6.html",
       "year": 2026,
@@ -1863,17 +1897,6 @@
       "model": "Sport GS",
       "condition": "new",
       "price": 33632.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 GS",
-      "vin": "3MZBPACL5TM515560",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/a6f4df41c996.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "GS",
-      "condition": "new",
-      "price": 33082.0,
       "price_currency": "CAD"
     },
     {
@@ -2010,17 +2033,6 @@
     },
     {
       "name": "2026 Mazda3 Sport GS",
-      "vin": "JM1BPALL4T1909776",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/ea5015551eb3.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Sport GS",
-      "condition": "new",
-      "price": 31132.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 Sport GS",
       "vin": "JM1BPALL0T1909001",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/c1fdee5a63c5.html",
       "year": 2026,
@@ -2050,6 +2062,39 @@
       "model": "GS",
       "condition": "new",
       "price": 34582.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mazda3 GX",
+      "vin": "3MZBPABL1TM517842",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/da87cc801850.html",
+      "year": 2026,
+      "make": "Mazda3",
+      "model": "GX",
+      "condition": "new",
+      "price": 27782.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mazda3 Sport GX",
+      "vin": "JM1BPAKL4T1910587",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/eb8a2e24863a.html",
+      "year": 2026,
+      "make": "Mazda3",
+      "model": "Sport GX",
+      "condition": "new",
+      "price": 28532.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mazda3 Sport GX",
+      "vin": "JM1BPAKL9T1910410",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/4b65e9158523.html",
+      "year": 2026,
+      "make": "Mazda3",
+      "model": "Sport GX",
+      "condition": "new",
+      "price": 28532.0,
       "price_currency": "CAD"
     }
   ]
