@@ -1,6 +1,6 @@
 {
   "dealership": "Metrotown Mazda",
-  "generated_at": "2026-11-18T15:29:48",
+  "generated_at": "2026-11-18T15:57:56",
   "vehicle_count": 233,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -307,6 +307,14 @@
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/2c05ecbf0f11.html",
       "condition": "new",
       "price": 44832.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GX",
+      "vin": "JM3KMAHA3T0128146",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/ae5bde4fc177.html",
+      "condition": "new",
+      "price": 38582.0,
       "price_currency": "CAD"
     },
     {
@@ -1143,14 +1151,6 @@
     },
     {
       "name": "Mazda2026 CX-5 GS",
-      "vin": "JM3KMBHAXT0241307",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/85a93eaec6f1.html",
-      "condition": "new",
-      "price": 41632.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GS",
       "vin": "JM3KMBHA8T0240575",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/e9f9a861d8e8.html",
       "condition": "new",
@@ -1219,6 +1219,14 @@
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/2366cc70de7d.html",
       "condition": "new",
       "price": 44582.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GS",
+      "vin": "JM3KMBHA8T0240902",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/006d4a6fd3a5.html",
+      "condition": "new",
+      "price": 41632.0,
       "price_currency": "CAD"
     },
     {
@@ -1826,17 +1834,6 @@
       "model": "GS",
       "condition": "new",
       "price": 32582.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 GS",
-      "vin": "3MZBPACL7TM515267",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/990f3cfdfa69.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "GS",
-      "condition": "new",
-      "price": 30382.0,
       "price_currency": "CAD"
     },
     {
