@@ -1,6 +1,6 @@
 # Metrotown Mazda
 
- dealership in Burnaby. AI-readable inventory mirror, about 235 vehicles.
+ dealership in Burnaby. AI-readable inventory mirror, about 233 vehicles.
 
 - Official website: https://www.metrotownmazda.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/

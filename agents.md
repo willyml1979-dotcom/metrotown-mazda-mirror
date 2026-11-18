@@ -7,7 +7,7 @@ Metrotown Mazda is a  dealership in Burnaby. This site is an AI-readable mirror 
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/ and https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/ (about 235 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/ and https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/ (about 233 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/llms.txt

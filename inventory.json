@@ -1,7 +1,7 @@
 {
   "dealership": "Metrotown Mazda",
-  "generated_at": "2026-11-18T07:00:54",
-  "vehicle_count": 235,
+  "generated_at": "2026-11-18T07:28:52",
+  "vehicle_count": 233,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -310,14 +310,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-5 GX",
-      "vin": "JM3KMAHA3T0128146",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/ae5bde4fc177.html",
-      "condition": "new",
-      "price": 38582.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-90 Plug-In Hybrid GT",
       "vin": "JM3KKDHA1T1389521",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/5fd7ffd6b59f.html",
@@ -566,6 +558,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Mazda2026 CX-5 GX",
+      "vin": "JM3KMAHA3T0165391",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/3eb577e0d766.html",
+      "condition": "new",
+      "price": 38582.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mazda2026 CX-70 Mild Hybrid Signature",
       "vin": "JM3KJEHC6T1211579",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/536744b993c8.html",
@@ -619,14 +619,6 @@
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/6b3fe9e50697.html",
       "condition": "new",
       "price": 62982.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GT",
-      "vin": "JM3KMCHA9T0165231",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/7dfe42c4c238.html",
-      "condition": "new",
-      "price": 44332.0,
       "price_currency": "CAD"
     },
     {
@@ -1023,6 +1015,14 @@
     },
     {
       "name": "Mazda2026 CX-5 GS",
+      "vin": "JM3KMBHA2T0222766",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/07970ab6afcb.html",
+      "condition": "new",
+      "price": 41332.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GS",
       "vin": "JM3KMBHA0T0218229",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/5d1f5245d5b7.html",
       "condition": "new",
@@ -1031,18 +1031,18 @@
     },
     {
       "name": "Mazda2026 CX-5 GT",
-      "vin": "JM3KMDHA9T0219570",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/3a8dcb32f993.html",
-      "condition": "new",
-      "price": 49482.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GT",
       "vin": "JM3KMCHA5T0219348",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/8de4f4c3f65c.html",
       "condition": "new",
       "price": 44332.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-5 GS",
+      "vin": "JM3KMBHA4T0223417",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/c598d4a674f2.html",
+      "condition": "new",
+      "price": 41332.0,
       "price_currency": "CAD"
     },
     {
@@ -1219,14 +1219,6 @@
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/2366cc70de7d.html",
       "condition": "new",
       "price": 44582.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-5 GS",
-      "vin": "JM3KMBHA8T0240902",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/006d4a6fd3a5.html",
-      "condition": "new",
-      "price": 41632.0,
       "price_currency": "CAD"
     },
     {
@@ -1768,17 +1760,6 @@
       "model": "Sport GX",
       "condition": "new",
       "price": 28932.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 Sport GX",
-      "vin": "JM1BPAKL3T1892700",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/new/c7ece5eae7bc.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Sport GX",
-      "condition": "new",
-      "price": 28532.0,
       "price_currency": "CAD"
     },
     {
