@@ -1,7 +1,7 @@
 {
   "dealership": "Metrotown Mazda",
-  "generated_at": "2026-11-17T21:48:45",
-  "vehicle_count": 236,
+  "generated_at": "2026-11-18T07:00:54",
+  "vehicle_count": 235,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1342,6 +1342,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2016 Mazda Mazda3",
+      "vin": "3MZBM1V73GM242441",
+      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/1ade33faf93d.html",
+      "year": 2016,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "condition": "used",
+      "price": 13603.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Mazda Mazda3",
       "vin": "JM1BN1U75J1171197",
       "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/1d5b2a01c997.html",
@@ -1383,28 +1394,6 @@
       "model": "CX-5",
       "condition": "used",
       "price": 28600.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Mazda CX-5",
-      "vin": "JM3KFBBLXN0648339",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/fa43f30d4553.html",
-      "year": 2022,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 26898.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Mazda Mazda3 Sport",
-      "vin": "JM1BPBLL9N1511374",
-      "url": "https://willyml1979-dotcom.github.io/metrotown-mazda-mirror/used/610d26e20e3c.html",
-      "year": 2022,
-      "make": "Mazda",
-      "model": "Mazda3",
-      "condition": "used",
-      "price": 24398.0,
       "price_currency": "CAD"
     },
     {
